@@ -5,10 +5,11 @@ from autogen_agentchat.agents import AssistantAgent
 import os
 from dotenv import load_dotenv
 
+
+
+
 # load the keys from the .env file
 load_dotenv()
-
-
 
 async def main():
     anthropic_client = AnthropicChatCompletionClient(
