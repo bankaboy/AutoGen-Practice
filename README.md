@@ -1,1 +1,1 @@
-Learning how to use AutoGen framework developed my Microsoft [A programming framework for agentic AI](https://github.com/microsoft/autogen)
+Learning how to use AutoGen framework developed my Microsoft: [A programming framework for agentic AI](https://github.com/microsoft/autogen)
