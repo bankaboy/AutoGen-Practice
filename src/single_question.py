@@ -18,6 +18,7 @@ async def main():
 
     result = await anthropic_client.create([UserMessage(content="What is the capital of France?", source="user")])  # type: ignore
     print(result)
+    await anthropic_client.close()
 
 
 if __name__ == "__main__":
